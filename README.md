@@ -1,7 +1,7 @@
 # Hi, I'm Yeyner Arenales 👨‍💻👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yeyner%20Arenales&subtitle=Senior%20Full-Stack%20%26%20Mobile%20Developer&fontSize=50&subtitleSize=20&animation=twinkling" alt="Yeyner Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yeyner%20Arenales&subtitle=Full-Stack%20%26%20Mobile%20Developer&fontSize=50&subtitleSize=20&animation=twinkling" alt="Yeyner Banner" />
 </p>
 
 ## 🚀 About Me
@@ -10,7 +10,7 @@ I am a **Full-Stack & Mobile Developer** passionate about building highly scalab
 
 - 🎯 **Focused on:** Software architecture, web/mobile performance, and high-concurrency systems.
 - 💡 **Philosophy:** Clean code, scalable patterns, and delivering real business value.
-- 🌎 **Contact:** Looking for a Senior Developer or want to collaborate? Let's connect!
+- 🌎 **Contact:** Looking for a Developer or want to collaborate? Let's connect!
 
 ---
 
@@ -76,7 +76,4 @@ I am a **Full-Stack & Mobile Developer** passionate about building highly scalab
 ## 🌎 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yeynerarenales-development/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+  <a href="
