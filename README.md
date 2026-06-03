@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior Full-Stack & Mobile Developer** passionate about building highly scalable, fast, and robust applications with top-tier user experiences. My primary ecosystem revolves around the speed of **Next.js**, the architectural strength of **NestJS**, the cross-platform versatility of **Flutter**, and the real-time power of **Supabase**.
+I am a **Full-Stack & Mobile Developer** passionate about building highly scalable, fast, and robust applications with top-tier user experiences. My primary ecosystem revolves around the speed of **Next.js**, the architectural strength of **NestJS**, the cross-platform versatility of **Flutter**, and the real-time power of **Supabase**.
 
 - 🎯 **Focused on:** Software architecture, web/mobile performance, and high-concurrency systems.
 - 💡 **Philosophy:** Clean code, scalable patterns, and delivering real business value.
