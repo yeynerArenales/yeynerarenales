@@ -64,15 +64,6 @@ I am a **Full-Stack & Mobile Developer** passionate about building highly scalab
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeynerArenales&theme=dark&background=0d1117&fire=3ECF8E&ring=02569B&currStreakNum=ffffff" alt="Yeyner's Streak Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeynerArenales&layout=compact&theme=radial&hide_border=true&title_color=3ECF8E&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Most Used Languages" height="180" />
-</p>
-
----
-
 ## 🌎 Connect With Me
 
 <p align="left">
